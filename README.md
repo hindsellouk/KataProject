@@ -7,7 +7,9 @@ Il s'agit d'une application java desktop en Spring Boot.
       2- ouvrir le projet maven
       3- lancer un "maven clean install"
       4- executer la classe: OrderBillingApplication:
+
 Resultat:
+
       --> Vous aurez l'affichage suivant:
                 Products Data:
                 Product id:0 Product Label:livre

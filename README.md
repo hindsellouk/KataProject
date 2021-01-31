@@ -6,7 +6,7 @@ Il s'agit d'une application java desktop en Spring Boot.
       1- git clone https://github.com/hindsellouk/KataProject.git
       2- ouvrir le projet maven
       3- lancer un "maven clean install"
-      4- executer la classe: OrderBillingApplication:
+      4- executer la classe: OrderBillingApplication
 
 Resultat:
 
@@ -17,7 +17,7 @@ Resultat:
                 Product id:2 Product Label:barre de chocolat
                 Product id:3 Product Label:flacon de parfum
                 Product id:4 Product Label:boite de pilule contre la migraine
-         Il s'agit des données qui concernent les produits( id, libellé), afin de permettre à l'utilisateur de savoir quel id  de produit entrer pour le calcul de sa facture.
+         Il s'agit des données qui concernent les produits(id, libellé), afin de permettre à l'utilisateur de savoir quel id de produit entrer pour le calcul de sa facture.
       
       --> l'application vous demandera d'entrer le nombre de produits que vous voulez ajouter à la commande:
                 Enter the number of products

@@ -2,12 +2,12 @@
 Bonjour,
 Il s'agit d'une application java desktop en Spring Boot.
 
-Pour lancer l'application, veuillez suivre les étapes suivantes:
-1- git clone https://github.com/hindsellouk/KataProject.git
-2- ouvrir le projet maven
-3- lancer un "maven clean install"
-4- executer la classe: OrderBillingApplication:
-
+      Pour lancer l'application, veuillez suivre les étapes suivantes:
+      1- git clone https://github.com/hindsellouk/KataProject.git
+      2- ouvrir le projet maven
+      3- lancer un "maven clean install"
+      4- executer la classe: OrderBillingApplication:
+Resultat:
       --> Vous aurez l'affichage suivant:
                 Products Data:
                 Product id:0 Product Label:livre
@@ -24,8 +24,7 @@ Pour lancer l'application, veuillez suivre les étapes suivantes:
                 Enter input in the following format (Product_id:Price:Quantity:Isimported)
                 exemple: 0:12.49:2:False
 
-
-/****Exemples d'execution:****/
+Exemples d'execution:
 
       Products Data:
       Product id:0 Product Label:livre

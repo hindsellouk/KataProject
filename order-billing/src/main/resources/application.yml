@@ -1,0 +1,9 @@
+taxes:
+  importationTax: 0.05
+  taxPerProductType:
+    ESSENTIALS: 0.00
+    BOOKS: 0.10
+    OTHERS: 0.20
+  
+products-data-source:
+  dataFileName: products_data.xlsx
